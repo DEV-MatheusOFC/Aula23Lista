@@ -1,0 +1,13 @@
+C:\Users\admin\Desktop\Senai - Atividades\Aula 23 - Listas\bin\Debug\netcoreapp3.1\Aula 23 - Listas.exe
+C:\Users\admin\Desktop\Senai - Atividades\Aula 23 - Listas\bin\Debug\netcoreapp3.1\Aula 23 - Listas.deps.json
+C:\Users\admin\Desktop\Senai - Atividades\Aula 23 - Listas\bin\Debug\netcoreapp3.1\Aula 23 - Listas.runtimeconfig.json
+C:\Users\admin\Desktop\Senai - Atividades\Aula 23 - Listas\bin\Debug\netcoreapp3.1\Aula 23 - Listas.runtimeconfig.dev.json
+C:\Users\admin\Desktop\Senai - Atividades\Aula 23 - Listas\bin\Debug\netcoreapp3.1\Aula 23 - Listas.dll
+C:\Users\admin\Desktop\Senai - Atividades\Aula 23 - Listas\bin\Debug\netcoreapp3.1\Aula 23 - Listas.pdb
+C:\Users\admin\Desktop\Senai - Atividades\Aula 23 - Listas\obj\Debug\netcoreapp3.1\Aula 23 - Listas.csprojAssemblyReference.cache
+C:\Users\admin\Desktop\Senai - Atividades\Aula 23 - Listas\obj\Debug\netcoreapp3.1\Aula 23 - Listas.AssemblyInfoInputs.cache
+C:\Users\admin\Desktop\Senai - Atividades\Aula 23 - Listas\obj\Debug\netcoreapp3.1\Aula 23 - Listas.AssemblyInfo.cs
+C:\Users\admin\Desktop\Senai - Atividades\Aula 23 - Listas\obj\Debug\netcoreapp3.1\Aula 23 - Listas.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\Senai - Atividades\Aula 23 - Listas\obj\Debug\netcoreapp3.1\Aula 23 - Listas.dll
+C:\Users\admin\Desktop\Senai - Atividades\Aula 23 - Listas\obj\Debug\netcoreapp3.1\Aula 23 - Listas.pdb
+C:\Users\admin\Desktop\Senai - Atividades\Aula 23 - Listas\obj\Debug\netcoreapp3.1\Aula 23 - Listas.genruntimeconfig.cache
